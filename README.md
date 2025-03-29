@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Azure and integrations
 - 🌱 I’m currently learning Kubernetes, CI/CD, MCPs
 - 👯 I’m looking to collaborate on Open-source projects
-- 🤔 I’m looking for help with AI autonamtions
+- 🤔 I’m looking for help with AI automations
 - 💬 Ask me about anything related to tech
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Swiss Army knife of tech-meets-music-meets-crypto-meets-creativity
